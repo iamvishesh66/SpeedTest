@@ -23,7 +23,7 @@ Requires | Python >=3.7</b>
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<img src="https://imgur.com/a/Tt3vXZD" height="80%" width="80%" />
+<img src="(https://imgur.com/a/Tt3vXZD)" height="80%" width="80%" />
 
 
 <!--
